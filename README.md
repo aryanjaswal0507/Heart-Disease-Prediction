@@ -74,5 +74,10 @@ The proposed model **outperforms traditional ML approaches** such as Logistic Re
 
 ---
 
+## 📜 License
+
+This project is licensed under the **MIT License**.
+
 📁 License file: [License](LICENSE)
 
+© 2025 Aryan Jaswal. All rights reserved.
