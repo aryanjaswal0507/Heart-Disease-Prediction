@@ -1,4 +1,4 @@
-# ❤️ Optimised XGBoost & Random Forest–Based Heart Disease Prediction
+# 🫀 Optimised XGBoost & Random Forest–Based Heart Disease Prediction
 
 ## 📌 Overview
 This repository presents an **Optimised Machine Learning–Based Diagnostic System for Accurate Heart Disease Prediction**, developed using a **hybrid ensemble of XGBoost and Random Forest**, with **Spider Monkey Optimization (SMO)** for hyperparameter tuning.
